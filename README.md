@@ -8,5 +8,7 @@ Comparison of compute performance for various Arduino compatible micro-controlle
 | ESP8266 |  4 | 8 | 2217 | 853 | 651 |
 | ESP32 |  4 | 8 | 588 | 238 | 37 |
 | RP2040 |  4 | 8 | 706 | 312 | 131 |
+| RP2350 |  4 | 8 | 129 | 58 | 58 |
+
 
 
